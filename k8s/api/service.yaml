@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: mongo-service-api
+  name: api-service
   namespace: api
 spec:
   selector:
